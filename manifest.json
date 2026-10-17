@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "منظّم حياتي | My Life Organizer",
+  "short_name": "منظّم حياتي",
+  "description": "مساحة هادئة واحدة لتنظيم أهدافك ومهامك العلمية والمهنية والشخصية، من الخطة السنوية إلى جدول اليوم",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F4FAFA",
+  "theme_color": "#0B2545",
+  "categories": ["productivity", "education", "lifestyle"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
